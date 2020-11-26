@@ -1,5 +1,5 @@
 # VerseNet
-Trained Recurrent Neural Network with PyTorch to generate verses with stylistic similarity to the Holy Bible
+Trained Recurrent Neural Network with PyTorch to generate verses with stylistic similarity to the provided piece of literature.
 
 ```
 2:14 And the LORD is with my strengthen in Samariah, and
